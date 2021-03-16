@@ -18,7 +18,6 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Main extends Application {
-
     private static final double SCENE_WIDTH = 1200;
     private static final double SCENE_HEIGHT = 900;
     private static final double SCENE_WIDTH_CENTER = SCENE_WIDTH / 2;
