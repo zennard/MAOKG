@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ext/j3dcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ext/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
